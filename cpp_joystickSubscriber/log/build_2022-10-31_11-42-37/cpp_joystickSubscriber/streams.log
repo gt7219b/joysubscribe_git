@@ -1,0 +1,30 @@
+[0.016s] Invoking command in '/home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber -- -j4 -l4
+[0.025s] [0mCMake Error: The current CMakeCache.txt directory /home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber/CMakeCache.txt is different than the directory /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.060s] [35m[1mConsolidate compiler generated dependencies of target listener2[0m
+[0.073s] [ 62%] Built target listener
+[0.073s] [ 75%] Built target talker
+[0.073s] [ 75%] Built target talker2
+[0.081s] [100%] Built target listener2
+[0.091s] Invoked command in '/home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber -- -j4 -l4
+[0.131s] Invoking command in '/home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber
+[0.139s] -- Install configuration: ""
+[0.139s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/lib/cpp_joystickSubscriber/talker
+[0.139s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/lib/cpp_joystickSubscriber/talker2
+[0.140s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/lib/cpp_joystickSubscriber/listener
+[0.140s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/lib/cpp_joystickSubscriber/listener2
+[0.140s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/ament_index/resource_index/package_run_dependencies/cpp_joystickSubscriber
+[0.140s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/ament_index/resource_index/parent_prefix_path/cpp_joystickSubscriber
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/environment/ament_prefix_path.sh
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/environment/ament_prefix_path.dsv
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/environment/path.sh
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/environment/path.dsv
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/local_setup.bash
+[0.141s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/local_setup.sh
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/local_setup.zsh
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/local_setup.dsv
+[0.142s] -- Installing: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/package.dsv
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/ament_index/resource_index/packages/cpp_joystickSubscriber
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/cmake/cpp_joystickSubscriberConfig.cmake
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/cmake/cpp_joystickSubscriberConfig-version.cmake
+[0.142s] -- Up-to-date: /home/gt7219b/ros2_ws/src/joystickSubscriber_git/cpp_joystickSubscriber/install/cpp_joystickSubscriber/share/cpp_joystickSubscriber/package.xml
+[0.144s] Invoked command in '/home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gt7219b/ros2_ws/src/joysubscribe_git/cpp_joystickSubscriber/build/cpp_joystickSubscriber
